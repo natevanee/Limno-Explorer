@@ -170,18 +170,18 @@ Sample Processing Date,Incubation Time (days),Sample Date,Mean Sample Time,Locat
 10/6/2020,14,9/22/2020,9:00:00 AM,Sheboygan,50.8,60.6,9.8,25.77,2.34,86.37,10.52,
 10/6/2020,13,9/23/2020,9:00:00 AM,Sheboygan,42.5,50.8,8.3,15.28,0.69,66.08,5.2,
 10/6/2020,12,9/24/2020,3:00:00 AM,Sheboygan,41.5,52.6,11.1,14.88,5.28,67.48,4.4,
-10/6/2020,11,9/25/2020,9:00:00 AM,Sheboygan,,,,,,,,data was lost b/c the isco pump stopped working for awhile due to a dead battery
-10/6/2020,10,9/26/2020,9:00:00 AM,Sheboygan,,,,,,,,data was lost b/c the isco pump stopped working for awhile due to a dead battery
-10/6/2020,9,9/27/2020,9:00:00 AM,Sheboygan,,,,,,,,data was lost b/c the isco pump stopped working for awhile due to a dead battery
-10/6/2020,8,9/28/2020,9:00:00 AM,Sheboygan,,,,,,,,data was lost b/c the isco pump stopped working for awhile due to a dead battery
-10/6/2020,7,9/29/2020,9:00:00 AM,Sheboygan,,,,,,,,data was lost b/c the isco pump stopped working for awhile due to a dead battery
-10/6/2020,6,9/30/2020,9:00:00 AM,Sheboygan,,,,,,,,data was lost b/c the isco pump stopped working for awhile due to a dead battery
-10/6/2020,5,10/1/2020,9:00:00 AM,Sheboygan,,,,,,,,data was lost b/c the isco pump stopped working for awhile due to a dead battery
-10/6/2020,4,10/2/2020,9:00:00 AM,Sheboygan,,,,,,,,data was lost b/c the isco pump stopped working for awhile due to a dead battery
-10/6/2020,3,10/3/2020,9:00:00 AM,Sheboygan,,,,,,,,data was lost b/c the isco pump stopped working for awhile due to a dead battery
-10/6/2020,2,10/4/2020,9:00:00 AM,Sheboygan,,,,,,,,data was lost b/c the isco pump stopped working for awhile due to a dead battery
-10/6/2020,1,10/5/2020,9:00:00 AM,Sheboygan,,,,,,,,data was lost b/c the isco pump stopped working for awhile due to a dead battery
-10/6/2020,0,10/6/2020,9:00:00 AM,Sheboygan,,,,,,,,data was lost b/c the isco pump stopped working for awhile due to a dead battery
+10/6/2020,11,9/25/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+10/6/2020,10,9/26/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+10/6/2020,9,9/27/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+10/6/2020,8,9/28/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+10/6/2020,7,9/29/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+10/6/2020,6,9/30/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+10/6/2020,5,10/1/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+10/6/2020,4,10/2/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+10/6/2020,3,10/3/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+10/6/2020,2,10/4/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+10/6/2020,1,10/5/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+10/6/2020,0,10/6/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
 10/6/2020,#VALUE!,10/6/2020,1:15:00 PM,Sheboygan,31.6,39.1,7.5,14.55,11.89,53.65,8.56,
 10/14/2020,7,10/7/2020,9:00:00 AM,Sheboygan,34.7,40.8,6.1,11.95,5.78,52.75,4.76,
 10/14/2020,6,10/8/2020,9:00:00 AM,Sheboygan,35,43,8,10.16,1.95,53.16,3.48,
@@ -241,14 +241,14 @@ Sample Processing Date,Incubation Time (days),Sample Date,Mean Sample Time,Locat
 11/4/2020,9,10/26/2020,9:00:00 AM,Sheboygan,171.6,198.9,27.3,66.13,26.56,265.03,26.4,
 11/4/2020,8,10/27/2020,9:00:00 AM,Sheboygan,138.7,158,19.3,40.22,12.5,198.22,14.55,
 11/4/2020,7,10/28/2020,9:00:00 AM,Sheboygan,121,136.4,15.4,29.76,12.81,166.16,10.6,
-11/4/2020,6,10/29/2020,9:00:00 AM,Sheboygan,,,,,,,,
-11/4/2020,5,10/30/2020,9:00:00 AM,Sheboygan,,,,,,,,
-11/4/2020,4,10/31/2020,9:00:00 AM,Sheboygan,,,,,,,,
-11/4/2020,3,11/1/2020,9:00:00 AM,Sheboygan,,,,,,,,
-11/4/2020,2,11/2/2020,9:00:00 AM,Sheboygan,,,,,,,,
-11/4/2020,1,11/3/2020,9:00:00 AM,Sheboygan,,,,,,,,
-11/4/2020,0,11/4/2020,9:00:00 AM,Sheboygan,,,,,,,,
-11/4/2020,,11/4/2020,12:11:00 PM,Sheboygan,65.9,81.9,16,13.87,6.26,95.77,4.16,
+11/4/2020,6,10/29/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+11/4/2020,5,10/30/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+11/4/2020,4,10/31/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+11/4/2020,3,11/1/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+11/4/2020,2,11/2/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+11/4/2020,1,11/3/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+11/4/2020,0,11/4/2020,9:00:00 AM,Sheboygan,,,,,,,,data lost  due to a dead isco pump battery
+11/4/2020,,11/4/2020,12:11:00 PM,Sheboygan,65.9,81.9,16,13.87,6.26,95.77,4.16,sample collected from river surface since battery was dead
 11/18/2020,15,11/3/2020,9:00:00 AM,Milwaukee,43.5,49.7,6.2,,12.98,,10.6,Tech forgot to HCL to the PP sample. Value was discarded.
 11/18/2020,14,11/4/2020,9:00:00 AM,Milwaukee,39,44.8,5.8,30.73,,75.53,14.97,NaOH-P Sample got cracked during shaker digestion. Sample lost.
 11/18/2020,13,11/5/2020,9:00:00 AM,Milwaukee,28.2,34.5,6.3,16,6.11,50.5,7.94,
